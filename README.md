@@ -5,4 +5,4 @@ Our client, the UIC Bookstore is owned and operated by the University of Illinoi
 In this study you will see how we captured student's spending habits for course material over an academic semester. We constructed a survey for 300+ students on campus, gathered their responses and conducted statistical analysis on the collected data to build a solid set of recommendations outlining marketing strategies the University can use to increase adoption for DAP on campus. At the end of this study, you will see how each student can save $100-$200 (>50%) per semester on course material if they opt in for DAP.
  
 
-
+Click here to view the report - https://github.com/talishb/Direct-Access-Program/blob/main/Final%20Report%20-%20DAP%20access%20program.pdf
